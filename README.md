@@ -24,14 +24,6 @@ This project was created as a learning and study exercise for Python automation 
 * Time Module
 
 ---
-## Installation
-
-### Clone the repository
-
-```bash
-git clone https://github.com/<your-username>/pyautogui-web-search-bot.git
-cd pyautogui-web-search-bot
-```
 
 ### Install dependencies
 
@@ -119,21 +111,6 @@ Main modules used:
 * time
 * webbrowser
 
----
-
-## Installation
-
-Install PyAutoGUI:
-
-```bash
-pip install pyautogui
-```
-
-Run the script:
-
-```bash
-python pyautogui_web_search_bot.py
-```
 
 ---
 
