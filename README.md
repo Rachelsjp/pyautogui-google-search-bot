@@ -100,16 +100,19 @@ This project helped in understanding:
 ## Project Structure
 
 ```python
-import pyautogui
-import time
-import webbrowser
+Core Python Modules Used
+
+pyautogui     → Mouse and keyboard automation
+time          → Delays and synchronization
+webbrowser    → Launch default browser
 ```
 
-Main modules used:
+Technologies Used
 
-* pyautogui
-* time
-* webbrowser
+Python
+PyAutoGUI
+Webbrowser Module
+Time Module
 
 
 ---
