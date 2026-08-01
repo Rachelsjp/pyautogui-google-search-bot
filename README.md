@@ -18,9 +18,9 @@ This project was created as a learning and study exercise for Python automation 
 
 ## Tech Stack
 
-* Python 3.x
-* PyAutoGUI
-* Webbrowser Module
+* Python 3.x,
+* PyAutoGUI,
+* Webbrowser Module,
 * Time Module
 
 ---
