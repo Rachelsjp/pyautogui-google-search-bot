@@ -109,10 +109,10 @@ webbrowser    → Launch default browser
 
 Technologies Used
 
-Python
-PyAutoGUI
-Webbrowser Module
-Time Module
+* Python
+* PyAutoGUI
+* Webbrowser Module
+* Time Module
 
 
 ---
